@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/haha.dir/src/main.cpp.o CMakeFiles/haha.dir/src/vect_add_one.cpp.o CMakeFiles/haha.dir/src/increment_and_sum.cpp.o  -o haha 

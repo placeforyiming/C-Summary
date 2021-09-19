@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/project/multi-files/with_C_make/src/increment_and_sum.cpp
+vect_add_one.h
+/project/multi-files/with_C_make/src/vect_add_one.h
+
+/project/multi-files/with_C_make/src/increment_and_sum.h
+vector
+-
+
+/project/multi-files/with_C_make/src/main.cpp
+iostream
+-
+vector
+-
+increment_and_sum.h
+/project/multi-files/with_C_make/src/increment_and_sum.h
+
+/project/multi-files/with_C_make/src/vect_add_one.cpp
+vect_add_one.h
+/project/multi-files/with_C_make/src/vect_add_one.h
+
+/project/multi-files/with_C_make/src/vect_add_one.h
+vector
+-
+
